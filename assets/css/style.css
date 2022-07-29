@@ -118,6 +118,12 @@ p {
     text-align: center;
 }
 
+/*CENTERED THE TEXT IN BENEFITS SECTION*/
+
+.benefits p{
+    text-align: center;
+}
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
