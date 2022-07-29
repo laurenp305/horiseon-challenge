@@ -143,9 +143,10 @@ p {
     color: #ffffff;
 }
 
+/*Changed ORM padding so text could fit better within the container*/
 .online-reputation-management {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 35px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
